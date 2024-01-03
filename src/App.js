@@ -92,10 +92,10 @@ function submitHandler(event){
 
 
           >
-            <option>India</option>
-            <option>Unites States</option>
-            <option>Canada</option>
-            <option>Mexico</option>
+            <option value="India">India</option>
+            <option value="United States">Unites States</option>
+            <option value="Canada">Canada</option>
+            <option value="Mexico">Mexico</option>
           </select>
 
           <br/>
